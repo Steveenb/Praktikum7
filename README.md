@@ -70,8 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-![Uploading Screenshot 2024-11-15 195453.png…]()
-
 
 
 
