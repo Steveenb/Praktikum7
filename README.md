@@ -1,4 +1,3 @@
-![GV0M9ryWsAAitBp](https://github.com/user-attachments/assets/0a1e887d-93bd-47c8-ae3a-69d51c3f6fc0)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,5 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![GV0M9ryWsAAitBp](https://github.com/user-attachments/assets/51b4eba5-d180-4ccf-8b79-c5bc118fe6d4)
 
