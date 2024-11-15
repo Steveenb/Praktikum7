@@ -68,6 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-bu![
 
+![Screenshot 2024-11-15 195453](https://github.com/user-attachments/assets/8ae3b7d7-cc41-43d7-9c24-341d42f94e87)
 
 
 
